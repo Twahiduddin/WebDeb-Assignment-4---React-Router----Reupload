@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebDeb-Assignment-4---React-Router----Reupload/static/css/main.073c9b0a.css",
+    "main.js": "/WebDeb-Assignment-4---React-Router----Reupload/static/js/main.006ab078.js",
+    "static/js/787.373d7891.chunk.js": "/WebDeb-Assignment-4---React-Router----Reupload/static/js/787.373d7891.chunk.js",
+    "index.html": "/WebDeb-Assignment-4---React-Router----Reupload/index.html",
+    "main.073c9b0a.css.map": "/WebDeb-Assignment-4---React-Router----Reupload/static/css/main.073c9b0a.css.map",
+    "main.006ab078.js.map": "/WebDeb-Assignment-4---React-Router----Reupload/static/js/main.006ab078.js.map",
+    "787.373d7891.chunk.js.map": "/WebDeb-Assignment-4---React-Router----Reupload/static/js/787.373d7891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.006ab078.js"
+  ]
+}
